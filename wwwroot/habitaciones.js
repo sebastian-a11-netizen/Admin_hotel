@@ -12,10 +12,10 @@ async function cargarHabitaciones() {
       card.className = "room-card-grid";
 
       card.innerHTML = `
-        <img src="img/${hab.tipo}.jpg" alt="Habitación ${hab.tipo}">
+        <img src="img/${hab.num}.jpg" alt="Habitación ${hab.tipo}">
         <div class="room-details-grid">
-          <h3>Habitación ${hab.tipo} #${hab.num}</h3>
-          <p class="room-price">Desde $${hab.precio} / noche</p>
+          <h3>${hab.tipo} #${hab.num}</h3>
+          <p class="room-price">$${hab.precio} / noche</p>
           <p class="room-description-grid">
             ${hab.disponibilidad ? "Disponible" : "No disponible"}
           </p>

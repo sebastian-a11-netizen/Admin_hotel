@@ -9,16 +9,20 @@
       "PackagePath": "staticwebassets/habitaciones.js"
     },
     {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/10.jpg",
+      "PackagePath": "staticwebassets/img/10.jpg"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/20.jpg",
+      "PackagePath": "staticwebassets/img/20.jpg"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/30.jpg",
+      "PackagePath": "staticwebassets/img/30.jpg"
+    },
+    {
       "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/Home.jpg",
       "PackagePath": "staticwebassets/img/Home.jpg"
-    },
-    {
-      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/deluxe.jpg",
-      "PackagePath": "staticwebassets/img/deluxe.jpg"
-    },
-    {
-      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/standard.jpg",
-      "PackagePath": "staticwebassets/img/standard.jpg"
     },
     {
       "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",

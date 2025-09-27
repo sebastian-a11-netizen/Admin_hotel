@@ -71,7 +71,7 @@ header {
     height: 100vh; /* Full viewport height */
     width: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                      url('img/Home.jpg'); /* CHANGE THIS PATH */
+                      url('img/main.jpg'); /* CHANGE THIS PATH */
     background-size: cover;
     background-position: center;
     display: flex;
