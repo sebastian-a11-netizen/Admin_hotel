@@ -2,10 +2,10 @@ namespace Models
 {
     public class Habitacion
     {
-        public int id_hab { get; set; }
-        public string tipo { get; set; }
-        public int num { get; set; }
-        public float precio { get; set; }
-        public bool disponibilidad { get; set; }
+        public int Id_Hab { get; set; } 
+        public string Tipo { get; set; }
+        public int Num { get; set; }
+        public double Precio { get; set; }
+        public bool Disponibilidad { get; set; }
     }
 }

@@ -7,12 +7,12 @@ using SqlKata;
 
 namespace Services
 {
-    public class Repository
+    public class Habitaciones
     {
         private readonly IDbConnection dbConnection;
         private readonly Compiler compiler;
 
-        public Repository(string connection)
+        public Habitaciones(string connection)
         {
             dbConnection = new SqliteConnection(connection);
             compiler = new SqliteCompiler();
