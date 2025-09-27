@@ -1,0 +1,1351 @@
+{
+  "Version": 1,
+  "Hash": "UBp3gXlV8nsepd5ktb83f9fBFferumv8NX40tVaNHRk=",
+  "Source": "AdminHotel",
+  "BasePath": "_content/AdminHotel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdminHotel/wwwroot",
+      "Source": "AdminHotel",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/2pox0l5571-eoyfu7y5z3.gz",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "index#[.{fingerprint=eoyfu7y5z3}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0j5x4c9r5c",
+      "Integrity": "PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/4p84wl0hx2-9nv0y25wi1.gz",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "habitaciones#[.{fingerprint=9nv0y25wi1}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pg50ulb1a3",
+      "Integrity": "V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/lm39hb3d1e-7e2bukad08.gz",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "style#[.{fingerprint=7e2bukad08}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lmc16mxnwm",
+      "Integrity": "LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "habitaciones#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9nv0y25wi1",
+      "Integrity": "NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/habitaciones.html"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/img/DeluxeH.jpg",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "img/DeluxeH#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kdp6wq5ccn",
+      "Integrity": "CCIkZdGiPe2Eo+S9EdWzp6HKMAiw6mUumL6+cUxS9rQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/DeluxeH.jpg"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/img/Home.jpg",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "img/Home#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3tiolun5lj",
+      "Integrity": "N5J9E11uJ7ExsseXJyJ3VuYvVQmiADK5zQo0y9bB/4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/Home.jpg"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/img/StandardH.jpg",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "img/StandardH#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2rxiiyxvcm",
+      "Integrity": "opqsXVJ9gXvnl30KFkNXRIX9IhDxa4Z1IbsriQtVSg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/StandardH.jpg"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eoyfu7y5z3",
+      "Integrity": "ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css",
+      "SourceId": "AdminHotel",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/sebastian/Projects/AdminHotel/wwwroot/",
+      "BasePath": "_content/AdminHotel",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7e2bukad08",
+      "Integrity": "IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "habitaciones.9nv0y25wi1.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/4p84wl0hx2-9nv0y25wi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001386962552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9nv0y25wi1"
+        },
+        {
+          "Name": "label",
+          "Value": "habitaciones.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI="
+        }
+      ]
+    },
+    {
+      "Route": "habitaciones.9nv0y25wi1.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9nv0y25wi1"
+        },
+        {
+          "Name": "label",
+          "Value": "habitaciones.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI="
+        }
+      ]
+    },
+    {
+      "Route": "habitaciones.9nv0y25wi1.html.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/4p84wl0hx2-9nv0y25wi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9nv0y25wi1"
+        },
+        {
+          "Name": "label",
+          "Value": "habitaciones.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM="
+        }
+      ]
+    },
+    {
+      "Route": "habitaciones.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/4p84wl0hx2-9nv0y25wi1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001386962552"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI="
+        }
+      ]
+    },
+    {
+      "Route": "habitaciones.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NZrWPvX8AFwCdopI/9ScnvzM9vInTzcV7duasff3DeI="
+        }
+      ]
+    },
+    {
+      "Route": "habitaciones.html.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/4p84wl0hx2-9nv0y25wi1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:22:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6Kl6qCuebmGzCIp5/tUvfKNvEWw8PSn+FS5TAcXRZM="
+        }
+      ]
+    },
+    {
+      "Route": "img/DeluxeH.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/DeluxeH.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3835485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CCIkZdGiPe2Eo+S9EdWzp6HKMAiw6mUumL6+cUxS9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:10:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CCIkZdGiPe2Eo+S9EdWzp6HKMAiw6mUumL6+cUxS9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/DeluxeH.kdp6wq5ccn.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/DeluxeH.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3835485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CCIkZdGiPe2Eo+S9EdWzp6HKMAiw6mUumL6+cUxS9rQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:10:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kdp6wq5ccn"
+        },
+        {
+          "Name": "label",
+          "Value": "img/DeluxeH.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CCIkZdGiPe2Eo+S9EdWzp6HKMAiw6mUumL6+cUxS9rQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Home.3tiolun5lj.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/Home.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5J9E11uJ7ExsseXJyJ3VuYvVQmiADK5zQo0y9bB/4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:15:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3tiolun5lj"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Home.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5J9E11uJ7ExsseXJyJ3VuYvVQmiADK5zQo0y9bB/4c="
+        }
+      ]
+    },
+    {
+      "Route": "img/Home.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/Home.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1142441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5J9E11uJ7ExsseXJyJ3VuYvVQmiADK5zQo0y9bB/4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:15:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5J9E11uJ7ExsseXJyJ3VuYvVQmiADK5zQo0y9bB/4c="
+        }
+      ]
+    },
+    {
+      "Route": "img/StandardH.2rxiiyxvcm.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/StandardH.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3026954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opqsXVJ9gXvnl30KFkNXRIX9IhDxa4Z1IbsriQtVSg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:10:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2rxiiyxvcm"
+        },
+        {
+          "Name": "label",
+          "Value": "img/StandardH.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-opqsXVJ9gXvnl30KFkNXRIX9IhDxa4Z1IbsriQtVSg4="
+        }
+      ]
+    },
+    {
+      "Route": "img/StandardH.jpg",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/img/StandardH.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3026954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opqsXVJ9gXvnl30KFkNXRIX9IhDxa4Z1IbsriQtVSg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:10:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opqsXVJ9gXvnl30KFkNXRIX9IhDxa4Z1IbsriQtVSg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.eoyfu7y5z3.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/2pox0l5571-eoyfu7y5z3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eoyfu7y5z3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM="
+        }
+      ]
+    },
+    {
+      "Route": "index.eoyfu7y5z3.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eoyfu7y5z3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM="
+        }
+      ]
+    },
+    {
+      "Route": "index.eoyfu7y5z3.html.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/2pox0l5571-eoyfu7y5z3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eoyfu7y5z3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/2pox0l5571-eoyfu7y5z3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002710027100"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ThcNOU2KrP8sb9NEf8hjSFSyV9MrISqu6/hjY62A1dM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/2pox0l5571-eoyfu7y5z3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PB7rDKOqfgIDcbBDqStJYsQaaD8bbwNa24aKXAvcY5Y="
+        }
+      ]
+    },
+    {
+      "Route": "style.7e2bukad08.css",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/lm39hb3d1e-7e2bukad08.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000559284116"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1787"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e2bukad08"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI="
+        }
+      ]
+    },
+    {
+      "Route": "style.7e2bukad08.css",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e2bukad08"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI="
+        }
+      ]
+    },
+    {
+      "Route": "style.7e2bukad08.css.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/lm39hb3d1e-7e2bukad08.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7e2bukad08"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/lm39hb3d1e-7e2bukad08.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000559284116"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1787"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IZFi5DsMgv28aAp9G1SfKCaFO2PtqRLFKtPBB2s9qKI="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "/home/sebastian/Projects/AdminHotel/obj/Debug/net9.0/compressed/lm39hb3d1e-7e2bukad08.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1787"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 26 Sep 2025 02:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LaS1eTAs7F0ERiQfOCMhiIyTnA2R1fRkHNzHobghs/g="
+        }
+      ]
+    }
+  ]
+}

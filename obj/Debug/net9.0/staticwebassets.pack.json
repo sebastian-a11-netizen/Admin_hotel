@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/habitaciones.html",
+      "PackagePath": "staticwebassets/habitaciones.html"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/DeluxeH.jpg",
+      "PackagePath": "staticwebassets/img/DeluxeH.jpg"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/Home.jpg",
+      "PackagePath": "staticwebassets/img/Home.jpg"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/img/StandardH.jpg",
+      "PackagePath": "staticwebassets/img/StandardH.jpg"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/sebastian/Projects/AdminHotel/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.AdminHotel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.AdminHotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.AdminHotel.props",
+      "PackagePath": "build\\AdminHotel.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.AdminHotel.props",
+      "PackagePath": "buildMultiTargeting\\AdminHotel.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.AdminHotel.props",
+      "PackagePath": "buildTransitive\\AdminHotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
