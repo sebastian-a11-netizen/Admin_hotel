@@ -1,7 +1,18 @@
+/* --------------------------------------------------------
+   📜 FUENTES
+-------------------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../fonts/Quicksand-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
-/* BASIC RESET */
+/* --------------------------------------------------------
+   🧼 RESETEO BÁSICO
+-------------------------------------------------------- */
 * {
     margin: 0;
     padding: 0;
@@ -9,76 +20,76 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif; /* Using Roboto as a common font */
+    font-family: 'Quicksand', sans-serif;
     color: #333;
     line-height: 1.6;
 }
 
-/* HEADER STYLES */
+/* --------------------------------------------------------
+   🧭 HEADER Y NAVEGACIÓN
+-------------------------------------------------------- */
 header {
-    /* Sets up the bar to be full width and horizontally aligned */
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding: 15px 30px;
-    background-color: rgba(231, 219, 198, 0.9); /* Slightly transparent white for the header background */
-    position: absolute; /* Place header over the background image */
+    position: absolute;
     width: 100%;
     z-index: 10;
+    background-color: rgba(231, 219, 198, 0.9);
+    min-height: 70px;
+    padding: 0 30px;
 }
 
 .logo {
+    position: absolute;
     font-size: 1.2em;
     font-weight: bold;
     color: #2f2f2f;
 }
 
-/* NAVIGATION MENU */
 .main-nav {
     display: flex;
-    gap: 30px; /* Space between menu items */
+    gap: 30px;
+    margin: 0 auto;
 }
 
-.main-nav a {
-    text-decoration: none;
-    color: #4A4A4A;
-    font-size: 1.1em;
-    padding-bottom: 5px; /* Space for the underline */
-    position: relative;
-    transition: color 0.3s;
-}
+    .main-nav a {
+        text-decoration: none;
+        color: #4A4A4A;
+        font-size: 1.1em;
+        margin: 0 20px;
+        padding-bottom: 5px;
+        position: relative;
+        transition: color 0.3s;
+    }
 
-/* Style for the active/selected menu item */
-.main-nav a.active {
-    color: #A96D4B; /* Highlight color (a reddish-brown) */
-}
+        .main-nav a.active {
+            color: #A96D4B;
+        }
 
-/* The red line under the active menu item */
-.main-nav a.active::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 3px;
-    background-color: #A96D4B;
-}
+            .main-nav a.active::after {
+                content: '';
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                height: 3px;
+                background-color: #A96D4B;
+            }
 
-
-/* HERO SECTION (BACKGROUND IMAGE & SLOGAN) */
+/* --------------------------------------------------------
+   🏞️ SECCIÓN HERO (IMAGEN PRINCIPAL)
+-------------------------------------------------------- */
 .hero-section {
-    /* Set up the full-screen background image */
-    height: 100vh; /* Full viewport height */
+    height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                      url('img/main.jpg'); /* CHANGE THIS PATH */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/main.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center; /* Space from the bottom of the screen */
+    text-align: center;
 }
 
 .slogan-container {
@@ -86,90 +97,120 @@ header {
 }
 
 .slogan-text {
-    font-family: 'Roboto', sans-serif;
-    font-size: 3em; 
-    font-weight: 400; 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
     line-height: 1.2;
     margin-bottom: 40px;
-    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7); 
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
 }
 
-
-footer {
-    padding: 10px;
-    text-align: center;
-    background-color: #E7DBC6;
+/* --------------------------------------------------------
+   🔘 BOTÓN DE REGISTRO
+-------------------------------------------------------- */
+.boton-registrar {
+    background-color: #EFE9C6;
+    width: 15rem;
+    display: inline-block;
+    border-radius: 50px;
+    border: 3px solid #B0312F;
+    transition: all 0.3s ease;
 }
 
+.txt-regis {
+    color: #B0312F;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
 
-/* --- HABITACIONES SECTION - GRID LAYOUT --- */
+.boton-registrar:hover {
+    background-color: #dcd4a6;
+    border-color: #ffffff;
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.boton-registrar:active {
+    background-color: #635F4F;
+    transform: scale(0.8);
+}
+
+.txt-regis:active {
+    color: #EFE9C6;
+}
+
+/* --------------------------------------------------------
+   🏠 SECCIÓN DE HABITACIONES (GRID)
+-------------------------------------------------------- */
+.body_habitaciones {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/habitaciones.jpg');
+    background-size: cover;
+    background-position: center;
+}
 
 .rooms-section {
-    padding-top: 100px; /* Espacio para el header fijo */
-    padding-bottom: 80px;
+    padding: 100px 0 80px;
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
 }
 
-.rooms-section h2 {
-    font-size: 2.5em;
-    color: #4A4A4A;
-    margin-bottom: 10px;
-}
+    .rooms-section h2 {
+        font-size: 2rem;
+        color: #EFE9C6;
+        margin-bottom: 10px;
+    }
 
 .section-subtitle {
-    font-size: 1.2em;
-    color: #777;
+    font-size: 1rem;
+    color: #EFE9C6;
     margin-bottom: 50px;
 }
 
-/* 1. CONTENEDOR GRID para las 3 Columnas */
 .cards-container {
+    color: black;
     display: grid;
-    /* Define 3 columnas de igual ancho con un espacio de 30px entre ellas */
-    grid-template-columns: repeat(3, 1fr); 
+    grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-    padding: 0 20px; /* Pequeño padding lateral */
+    padding: 0 20px;
 }
 
-/* 2. Estilo de cada CARD */
 .room-card-grid {
     background-color: #fff;
-    border-radius: 10px;
-    overflow: hidden; /* Asegura que la imagen tenga bordes redondeados */
+    border-radius: 70px;
+    overflow: hidden;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
     text-align: left;
 }
 
-.room-card-grid:hover {
-    transform: translateY(-5px); /* Efecto sutil al pasar el mouse */
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-}
+    .room-card-grid:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
 
-.room-card-grid img {
-    width: 100%;
-    height: 220px; /* Altura fija para todas las imágenes de la card */
-    object-fit: cover;
-    display: block;
-}
+    .room-card-grid img {
+        width: 100%;
+        height: 220px;
+        object-fit: cover;
+        display: block;
+    }
 
-/* 3. Estilo de los Detalles de la Card */
 .room-details-grid {
-    padding: 20px 20px 30px 20px;
+    padding: 20px 20px 30px;
 }
 
-.room-details-grid h3 {
-    font-size: 1.5em;
-    color: #4A4A4A;
-    margin-bottom: 5px;
-}
+    .room-details-grid h3 {
+        font-size: 1.5em;
+        color: #4A4A4A;
+        margin-bottom: 5px;
+    }
 
 .room-price {
     font-size: 1.2em;
     font-weight: bold;
-    color: #A96D4B; /* Color destacado */
+    color: #A96D4B;
     margin-bottom: 10px;
 }
 
@@ -177,7 +218,7 @@ footer {
     color: #777;
     font-size: 0.95em;
     margin-bottom: 15px;
-    min-height: 40px; /* Asegura que la altura sea similar si la descripción es corta */
+    min-height: 40px;
 }
 
 .amenities-list-grid {
@@ -188,19 +229,82 @@ footer {
     padding-left: 0;
 }
 
-/* 4. Botón de Reservar */
 .btn-reservar-grid {
-    display: block; /* Ocupa todo el ancho del card */
-    padding: 10px 0;
-    background-color: #A96D4B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: #B0312F;
     color: white;
-    text-align: center;
     text-decoration: none;
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 49px;
     transition: background-color 0.3s;
+    font-size: 1.5rem;
+    margin-bottom:1px;
+}
+    .btn-reservar-grid:hover {
+        background-color: #635F4F;
+    }
+
+    /*-----*/
+.body_servicios {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('img/habitaciones.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
-.btn-reservar-grid:hover {
-    background-color: #8C563F;
+.rooms-services {
+    height:40rem;
+    padding: 80px 20px;
+    text-align: center;
+    color: #EFE9C6;
+}
+
+.rooms-cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.room-card {
+    background-color: #EFE9C6;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .room-card img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        margin-bottom: 15px;
+    }
+
+    .room-card h3 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+        color: #2f2f2f;
+    }
+
+
+.room-description {
+    font-size: 0.95rem;
+    color: #4a4a4a;
+    margin-bottom: 20px;
+}
+.room-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* --------------------------------------------------------
+   ⚙️ FOOTER
+-------------------------------------------------------- */
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #E7DBC6;
 }
