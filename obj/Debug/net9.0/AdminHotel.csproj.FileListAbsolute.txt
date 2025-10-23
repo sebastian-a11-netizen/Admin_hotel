@@ -123,5 +123,7 @@ C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\AdminHotel
 C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\ref\AdminHotel.dll
 C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\4p84wl0hx2-77r2qssr14.gz
 C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\2pox0l5571-ge18e43zfx.gz
-C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\8iduhxehck-jpoqfr9zna.gz
 C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\lm39hb3d1e-ysf0rxpo6d.gz
+C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\8iduhxehck-1f4av5ckl3.gz
+C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\t9d4jo4mwj-s1nyi3tnh9.gz
+C:\Users\andri\OneDrive\Documentos\Repos\Admin_hotel\obj\Debug\net9.0\compressed\jyjl94fjcd-4ds94z06ai.gz
